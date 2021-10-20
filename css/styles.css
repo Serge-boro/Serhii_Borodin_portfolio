@@ -863,9 +863,6 @@ Blog
 cards items
 ===============
 */
-.section.projects-page-center {
-  margin-bottom: 3rem;
-}
 .card-side {
   transition: all 2s linear;
   backface-visibility: hidden;
@@ -1073,7 +1070,7 @@ timer
 }
 .project-hero-page {
   background: var(--clr-primary-5);
-  height: 100vh;
+  height: 110vh;
 }
 .headerLine.project-headline {
   display: none;
