@@ -864,7 +864,7 @@ cards items
 ===============
 */
 .section.projects-page-center {
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
 }
 .card-side {
   transition: all 2s linear;
