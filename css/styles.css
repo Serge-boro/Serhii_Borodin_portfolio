@@ -864,7 +864,7 @@ cards items
 ===============
 */
 .section.projects-page-center {
-  height: 50vh;
+  background: red;
 }
 .card-side {
   transition: all 2s linear;
