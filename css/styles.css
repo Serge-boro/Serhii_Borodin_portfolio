@@ -1070,7 +1070,7 @@ timer
 }
 .project-hero-page {
   background: var(--clr-primary-5);
-  height: 110vh;
+  height: 150vh;
 }
 .headerLine.project-headline {
   display: none;
