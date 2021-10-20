@@ -98,6 +98,9 @@ p:not(.name-logo) {
   h4 {
     line-height: 1;
   }
+  p {
+    text-align: center;
+  }
 }
 /*  global classes */
 
