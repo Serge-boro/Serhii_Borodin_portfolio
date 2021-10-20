@@ -863,6 +863,9 @@ Blog
 cards items
 ===============
 */
+.section.projects-page-center {
+  margin-bottom: 3rem;
+}
 .card-side {
   transition: all 2s linear;
   backface-visibility: hidden;
