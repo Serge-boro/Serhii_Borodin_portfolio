@@ -111,6 +111,6 @@ function scroll() {
   let windowHeight = document.body.getBoundingClientRect().height
   let heightHeader = window.pageYOffset
   let widthHeaderLine = (heightHeader / windowHeight) * 22.5
-  headerLine.style.width = `${widthHeaderLine}` * 120 + 'px'
+  headerLine.style.width = `${widthHeaderLine}` * 130 + 'px'
 }
 window.addEventListener('scroll', scroll)
