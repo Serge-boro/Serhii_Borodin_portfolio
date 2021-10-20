@@ -427,7 +427,7 @@ About
     height: 110vh;
   }
   .btn-about {
-    margin: 0 auto;
+    margin-left: 50%;
   }
   .profile {
     text-align: left;
