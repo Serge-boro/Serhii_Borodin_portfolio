@@ -786,10 +786,9 @@ Skills
   transform: translateX(-50%);
   margin-right: 3rem;
 }
-/* .skill-text-50 {
-  background: red;
-  margin-right: 3 rem;
-} */
+.skills-center-name {
+  margin-left: 3rem;
+}
 /*
 =============== 
 experience block
