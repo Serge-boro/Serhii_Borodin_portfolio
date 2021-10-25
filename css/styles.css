@@ -782,7 +782,7 @@ Skills
 .skill-text {
   position: absolute;
   top: -2rem;
-  left: 50%;
+  left: 40%;
   transform: translateX(-50%);
 }
 .skill-text-50 {
