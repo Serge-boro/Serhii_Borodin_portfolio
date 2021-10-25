@@ -758,7 +758,6 @@ Skills
   margin-bottom: 0.5rem;
   text-transform: capitalize;
   color: var(--clr-primary-1);
-  margin-left: 2rem;
 }
 .skill-container {
   background: var(--clr-white);
@@ -785,7 +784,12 @@ Skills
   top: -2rem;
   left: 50%;
   transform: translateX(-50%);
+  margin-right: 3rem;
 }
+/* .skill-text-50 {
+  background: red;
+  margin-right: 3 rem;
+} */
 /*
 =============== 
 experience block
