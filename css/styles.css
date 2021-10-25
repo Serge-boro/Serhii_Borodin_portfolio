@@ -765,6 +765,7 @@ Skills
   width: 85%;
   border-radius: var(--radius);
   position: relative;
+  margin-right: 3rem;
 }
 .skill-value {
   position: absolute;
@@ -783,7 +784,6 @@ Skills
   top: -2rem;
   left: 50%;
   transform: translateX(-50%);
-  margin-right: 3rem;
 }
 .skill-text-50 {
   left: 50%;
