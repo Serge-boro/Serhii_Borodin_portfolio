@@ -795,6 +795,7 @@ Skills
 }
 .skill-text-50 {
   left: 50%;
+  margin-left: 1rem;
 }
 .skill-text-30 {
   left: 30%;
