@@ -760,8 +760,7 @@ Skills
   color: var(--clr-primary-1);
 }
 .skill-container {
-  /* background: var(--clr-white); */
-  background: red;
+  background: var(--clr-white);
   height: 1rem;
   width: 85%;
   border-radius: var(--radius);
@@ -785,6 +784,7 @@ Skills
   top: -2rem;
   left: 50%;
   transform: translateX(-50%);
+  color: red;
 }
 .skill-text-50 {
   left: 50%;
