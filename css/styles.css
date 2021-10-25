@@ -784,10 +784,10 @@ Skills
   top: -2rem;
   left: 50%;
   transform: translateX(-50%);
-  color: red;
 }
 .skill-text-50 {
   left: 50%;
+  color: red;
 }
 /*
 =============== 
