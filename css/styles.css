@@ -785,9 +785,7 @@ Skills
 .value-70 {
   width: 70%;
 }
-.skill-text-60 {
-  left: 90%;
-}
+
 .skill-text {
   position: absolute;
   top: -2rem;
@@ -797,6 +795,9 @@ Skills
 }
 .skills-center-name {
   margin-left: 3rem;
+}
+.skill-text-60 {
+  left: 90%;
 }
 /*
 =============== 
