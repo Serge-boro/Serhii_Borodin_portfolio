@@ -793,9 +793,7 @@ Skills
   transform: translateX(-50%);
   margin-right: 3rem;
 }
-.skills-center-name {
-  margin-left: -28rem;
-}
+
 .skill-text-60 {
   left: 60%;
 }
@@ -824,7 +822,7 @@ Blog
     margin-left: 30rem;
   }
   .skills-center-name {
-    margin-left: -20rem;
+    margin-left: -28rem;
   }
 }
 .section-experience {
