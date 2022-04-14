@@ -823,6 +823,9 @@ Blog
     height: 50px;
     margin-left: 30rem;
   }
+  .skills-center-name {
+    margin-left: -20rem;
+  }
 }
 .section-experience {
   margin-top: 3rem;
