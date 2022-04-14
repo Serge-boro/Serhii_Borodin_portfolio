@@ -808,9 +808,12 @@ experience block
 ===============
 */
 @media screen and (min-width: 768px) {
-}
-.section-experience {
-  margin-top: 3rem;
+  .skills-center-name {
+    margin-left: -5rem;
+  }
+  .section-experience {
+    margin-top: 3rem;
+  }
 }
 /*
 =============== 
