@@ -779,6 +779,12 @@ Skills
 .value-50 {
   width: 50%;
 }
+.value-60 {
+  width: 60%;
+}
+.skill-text-60 {
+  left: 60%;
+}
 .skill-text {
   position: absolute;
   top: -2rem;
