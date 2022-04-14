@@ -794,10 +794,13 @@ Skills
   margin-right: 3rem;
 }
 .skills-center-name {
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 .skill-text-60 {
-  left: 90%;
+  left: 60%;
+}
+.skill-text-70 {
+  left: 70%;
 }
 /*
 =============== 
