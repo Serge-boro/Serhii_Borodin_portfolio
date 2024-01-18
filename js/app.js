@@ -68,7 +68,7 @@ function checkBoxes() {
 const deadline = document.querySelector('.deadline'),
   items = document.querySelectorAll('.deadline-format h4')
 
-let futureDate = new Date(2022, 12, 31, 12, 00, 00)
+let futureDate = new Date(2025, 12, 31, 12, 00, 00)
 
 const futureTime = futureDate.getTime()
 
